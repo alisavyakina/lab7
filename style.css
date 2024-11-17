@@ -1,0 +1,63 @@
+
+body {
+    padding-top: 56px;
+    padding: 20px; 
+    margin: 20px;  
+}
+
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+    margin: 20px;
+}
+
+.card.card1 {
+    margin-bottom: 20px;
+    height: 800px;
+    width: 300px;
+}
+.card {
+    margin-bottom: 20px;
+    height: 500px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: .5rem;
+    overflow: auto;
+}
+#actor{
+    height: auto;
+    width: auto;
+}
+
+.cont {
+    display: flex; 
+    justify-content: space-between;
+    padding: 20px; 
+    margin: 20px; 
+}
+.contL {
+    width: 15%; 
+    margin-right: 20px;
+    padding: 20px; 
+}
+.contR {
+    width: 85%; 
+    padding: 20px; 
+}
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+#ph1{
+    width: 250px; 
+    height: auto;
+}
